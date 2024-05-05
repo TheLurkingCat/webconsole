@@ -1654,6 +1654,7 @@ export default function SubscriberCreate() {
                   >
                     <MenuItem value="5G_AKA">5G_AKA</MenuItem>
                     <MenuItem value="EAP_AKA_PRIME">EAP_AKA_PRIME</MenuItem>
+                    <MenuItem value="EAP_TLS">EAP_TLS</MenuItem>
                   </Select>
                 </FormControl>
               </TableCell>
